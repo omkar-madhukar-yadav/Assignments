@@ -21,7 +21,7 @@ body {
 }
 #submitBtn:hover {
   color: var(--lightBlue);
-  color: var(--mainBlack);
+  color: var(--lightBlue);
 }
 
 .feedback {
